@@ -16,7 +16,6 @@ public class BingAutoSearch {
 
 	public static void main(String[] args) {
 		mainCode();
-		//Testing Git
 	}
 
 	private static void mainCode() {
