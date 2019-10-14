@@ -1,0 +1,10 @@
+california
+seattle
+west
+denver
+houston
+silicon
+las vegas
+chicago
+new york city
+texas

@@ -1,0 +1,30 @@
+NumberOfSearches: 30
+NumberOfMobileSearches: 20
+-------------------------------------------------------------
+Emails&Passwords:
+testingtestingtesting191@outlook.com always1st
+testing12013@outlook.com always1st
+testing11947@outlook.com always1st
+testing11914@outlook.com always1st
+testing11969@outlook.com always1st
+testing102019@outlook.com always1st
+testing727@outlook.com always1st
+testing859@outlook.com always1st
+testing816@outlook.com always1st
+testing1092@outlook.com always1st
+testing112019@outlook.com always1st
+testing1286@outlook.com always1st
+testing1341@outlook.com always1st
+testing1453@outlook.com always1st
+testing151@outlook.com always1st
+testing1664@outlook.com always1st
+testing1790@outlook.com always1st
+testing1839@outlook.com always1st
+testing1931@outlook.com always1st
+testing202019@outlook.com always1st
+testing212019@outlook.com always1st
+testing222019@outlook.com always1st
+testing232019@outlook.com always1st
+testing242019@outlook.com always1st
+testing252019@outlook.com always1st
+testing262019@outlook.com always1st
