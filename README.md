@@ -1,5 +1,4 @@
 # Bing Auto-Search
-
 *Spring 2019*
 
 This project started when I got tired of using Bing just because they paid me.
