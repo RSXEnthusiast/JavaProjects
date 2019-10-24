@@ -1,5 +1,7 @@
-# PersonalProjects
+# Humble-NishiyamaRandomnessGame
 
-Each branch is a different project.
+I watched a video on a game that you can win most of the time if you go second, I was curious about it and wanted to see for myself.
 
-Just wanted to put up some of my personal "for fun" work.
+Plans include making the game playable by humans, versus each other, or versus the computer. I might also try to optimize furthur, though it is fine up to hundreds of thousands of games.
+
+Link to inspiring video - https://www.youtube.com/watch?v=s4tyO4V2im8
