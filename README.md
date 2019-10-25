@@ -1,4 +1,4 @@
-# PersonalProjects
+# JavaProjects
 
 Each branch is a different project.
 
