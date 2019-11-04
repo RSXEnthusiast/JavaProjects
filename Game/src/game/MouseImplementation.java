@@ -34,8 +34,6 @@ public class MouseImplementation implements MouseInputListener {
         // Look at the print output for the values for each button.
         int button = e.getButton();
 
-        System.out.println("Clicked at: " + point + " and button: " + button);
-
         // REACT TO THE POINT USING IF STATEMENTS AND CALLING METHODS of p
         if (0 <= point.x && point.x <= BLOCK && HEIGHT - 2 * BLOCK <= point.y && point.y <= HEIGHT - BLOCK) {
             p.left();
