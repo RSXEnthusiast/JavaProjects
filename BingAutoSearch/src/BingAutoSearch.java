@@ -13,6 +13,8 @@ public class BingAutoSearch {
 	public static int count = 1;
 	public static boolean[] status = null;
 	public static int curVPN = -1;
+	
+	//Testing git in Eclipse
 
 	public static void main(String[] args) {
 		mainCode();
